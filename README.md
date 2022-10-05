@@ -6,4 +6,4 @@ Estudiante de Ingeniería Electrónica devenido en programador. Me gusta resolve
 
 Conocimientos: HTML/CSS/BOOTSTRAP/GIT/JS/REACT/NODE/C
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juanmafcozzuol//) 
+![#f03c15][<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juanmafcozzuol//) 
